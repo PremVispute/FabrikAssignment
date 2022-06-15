@@ -1,0 +1,33 @@
+.App{
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+
+.sideBar{
+    height: 100vh;
+    width: 18vw;
+    background-color: #282828;
+}
+
+.header{
+    color: white;
+    position: fixed;
+    left: 50%;
+    top: 50px;
+}
